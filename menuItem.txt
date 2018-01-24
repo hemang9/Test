@@ -7,4 +7,9 @@ Adding Southindian idli
 ---South Indian Cusine---
 Rasam
 Uttampam
+---Adding north IndianDishes---
+Panjabi Panner tikka masala
+Chole puri
+Kali moong dal
+Lassi
 --END of Menu---
